@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605288662 source:c:\users\mbiraru\documents\lexicalanalyzer\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
