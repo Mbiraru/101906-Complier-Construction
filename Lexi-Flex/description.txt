@@ -1,0 +1,1 @@
+In the executable pop-up screen type hi for the compiler to reply back with hello world and bye to close the hello.exe
